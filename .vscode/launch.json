@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "java-go_35c038"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort",
+            "projectName": "java-go_35c038"
+        },
+        {
+            "type": "java",
+            "name": "ShellSort",
+            "request": "launch",
+            "mainClass": "ShellSort",
+            "projectName": "java-go_35c038"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug Current JS File",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}",
+            "outFiles": [],
+            "runtimeExecutable": "/Users/sure/.nvm/versions/node/v24.0.0/bin/node"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/console.js",
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/ShellSort.js"
+        }
+    ]
+}
