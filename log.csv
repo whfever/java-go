@@ -14,3 +14,25 @@ JVM锁优化,锁消除粗化-轻量级锁适应性自旋-偏向锁CAS
 countdownlatch使用场景,等待协作唤醒,
 aqs核心原理,clh-condition queue-计数器,
 nio实现原理,selector-多路复用器-epoll-内核态和用户态-响应式编程
+nio和io区别,异步io-非阻塞io-多路复用io
+浏览extension store-使用thunder client-git graph
+selector 实现原理deepseek回答要求浅显易懂,快递员-柜子-登记表
+0513,minute
+阅读JVM内存模型,调优排查Linux,
+跟日志与断点调试的使用,分布式极其难用-有输出日志的习惯
+xmind和csv比较,相当于链表和数组的区别-markdown相似于树
+学习分布式锁，lock4j-redission
+redis如何实现分布式锁,基于setnx命令-过期时间-原子性,redission 业务场景 限流，信号量，锁-超时时间自旋
+实用的Java工具库,common-guava-lombok
+开发质量-重构技巧-网络抓包-安全
+通过引用自己解决事务失效问题-活在大的同步代码块
+使用编程式事务管理业务逻辑
+使用bear导出简历pdf
+搜索java 算法简历,实习多见不同业务的重要性
+阅读掘金甄别包装简历,分布式场景解决方案
+抽象成hr话术模版,面试小程序-seo文章
+使用deepl翻译文章,即时翻译-c-c
+使用markdownallinone,快速设置粗体
+使用vscode-pdf,快速预览pdf
+使用vscode auto save,
+html convert to 
