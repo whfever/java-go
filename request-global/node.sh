@@ -25,3 +25,5 @@ npm install -g cnpm
 cnpm install puppeteer
 
 npm install turndown
+
+npm install playwright
