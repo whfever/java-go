@@ -5,12 +5,14 @@ const TurndownService = require('turndown');
 
 // 默认内置多个网址
 const DEFAULT_URLS = [
-  'https://v2ex.com/t/1019827',
-  'https://v2ex.com/t/1090050',
-  'https://v2ex.com/t/1051125','https://v2ex.com/t/1019827','https://v2ex.com/t/927121',
-  'https://windypath.com/resume','https://www.v2ex.com/t/967464',
-  'https://v2ex.com/t/1113398','https://www.v2ex.com/t/1082507',
-  'https://www.v2ex.com/t/1113398','https://www.v2ex.com/t/1113398',
+  'https://www.lipijin.com/resume',
+  'https://v2ex.com/t/1117140#reply4',
+  'https://v2ex.com/t/1126201#reply3',
+  'https://www.v2ex.com/t/1075954',
+  'https://v2ex.com/t/654289',
+  'https://www.v2ex.com/t/623704',
+  'https://www.v2ex.com/t/1017296',
+  'https://v2ex.com/t/980219'
 ];
 
 // 解析命令行参数
