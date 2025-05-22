@@ -1,0 +1,90 @@
+{
+    "root": {
+        "data": {
+            "id": "d9wd6wiq2iw0",
+            "created": 1747274709926,
+            "text": "Compare"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d9wd79dp3t40",
+                    "created": 1747274737920,
+                    "text": "vs-mind"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d9wd836u46g0",
+                            "created": 1747274802809,
+                            "text": "all in one"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d9wd7ewot9s0",
+                    "created": 1747274749952,
+                    "text": "xmind"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d9wd86af3m00",
+                            "created": 1747274809556,
+                            "text": ""
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d9wd8oivvc00",
+                    "created": 1747274849250,
+                    "text": "vs-draw"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d9wd8sikf740",
+                            "created": 1747274857938,
+                            "text": "work flow"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d9wd9kxbi3k0",
+                    "created": 1747274919780,
+                    "text": "vs"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d9wd9mbumw00",
+                            "created": 1747274922835,
+                            "text": "快速编辑"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d9wda1bf8h40",
+                            "created": 1747274955461,
+                            "text": "topic"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

@@ -25,7 +25,7 @@ volatile retreenlock synchronized
 可重入锁/非可重入锁
 
 ## JUC 工具类
-集合 线程池 工具类
+集合 线程池 
  CountDownLatch,CyclicBarrier,Semaphore
 ReentrantLock,Synchronized,ReentrantReadWriteLock,CopyOnWriteArrayList,
 

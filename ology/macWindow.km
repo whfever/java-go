@@ -1,0 +1,47 @@
+{
+    "root": {
+        "data": {
+            "id": "d9wen80mny80",
+            "created": 1747278809890,
+            "text": "Mac"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d9wenezwm400",
+                    "created": 1747278825083,
+                    "text": "窗口"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d9wensmz6pc0",
+                            "created": 1747278854777,
+                            "text": "cursor"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d9wenwug6200",
+                            "created": 1747278863937,
+                            "text": "browse"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d9wenkzugzs0",
+                    "created": 1747278838141,
+                    "text": "软件"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
